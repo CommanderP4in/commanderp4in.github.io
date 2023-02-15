@@ -2,7 +2,7 @@
 
 *******
 Tables of contents  
- 1. [Exploit Dev](/pwn)
+ 1. [Exploit Dev](#/pwn)
  2. [Forensics](#why)
  3. [Reverse Engineering](#tools)
  4. [Cryptography](#syntax)
