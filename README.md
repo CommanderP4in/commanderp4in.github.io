@@ -12,14 +12,14 @@
  8. [IoT Pentesting]()
 
 *******
-- [Exploit Development](https://commanderp4in.github.io/expdev)
-- [Kali Linux Tools](https://commanderp4in.github.io/kalitools)
-- [Pentesting with Kali](https://commanderp4in.github.io/kalipentest)
-- [Linux 101](https://commanderp4in.github.io/linux101)
+1. [Exploit Development](https://commanderp4in.github.io/expdev)
+2. [Kali Linux Tools](https://commanderp4in.github.io/kalitools)
+3. [Pentesting with Kali](https://commanderp4in.github.io/kalipentest)
+4. [Linux 101](https://commanderp4in.github.io/linux101)
 
 *******
 ## Programming
-- [Bash](https://commanderp4in.github.io/bash)
-- [Python](https://commanderp4in.github.io/python)
-- [C](https://commanderp4in.github.io/c)
-- [C++](https://commanderp4in.github.io/cpp)
+1. [Bash](https://commanderp4in.github.io/bash)
+2. [Python](https://commanderp4in.github.io/python)
+3. [C](https://commanderp4in.github.io/c)
+4. [C++](https://commanderp4in.github.io/cpp)
