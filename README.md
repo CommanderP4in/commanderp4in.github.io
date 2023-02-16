@@ -21,6 +21,3 @@
 - [Python](https://commanderp4in.github.io/python)
 - [C](https://commanderp4in.github.io/c)
 - [C++](https://commanderp4in.github.io/cpp)
-
-*******
-
