@@ -12,5 +12,14 @@ Tables of contents
  8. [IoT Pentesting]()
 
 *******
+- [Kali Linux Tools](https://commanderp4in.github.io/pwn)
+- [Linux 101] 
 
+*******
+## Languages
+- [Bash]()
+- [Python]()
+- [C]()
+- [C++]()
+*******
 
