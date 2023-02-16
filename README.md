@@ -25,4 +25,4 @@
 4. [C++](https://commanderp4in.github.io/cpp)
 
 *******
-1. [OSCP Tools](https://commanderp4in.github.io/oscp)
+1. [OSCP Tools](https://commanderp4in.github.io/oscptools)
