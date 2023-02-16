@@ -12,7 +12,8 @@
  8. [IoT Pentesting]()
 
 *******
-- [Kali Linux Tools](https://commanderp4in.github.io/pwn)
+- [Kali Linux Tools](https://commanderp4in.github.io/kalitools)
+- [Pentesting with Kali](https://commanderp4in.github.io/kalipentest)
 - [Linux 101](https://commanderp4in.github.io/linux101)
 
 *******
