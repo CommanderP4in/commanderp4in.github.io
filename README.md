@@ -13,7 +13,7 @@ Tables of contents
 
 *******
 - [Kali Linux Tools](https://commanderp4in.github.io/pwn)
-- [Linux 101] 
+- [Linux 101](https://commanderp4in.github.io/linux101)
 
 *******
 ## Languages
